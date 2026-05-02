@@ -1,9 +1,0 @@
-{
-  "profiles": {
-    "Editor": {
-      "commandName": "Executable",
-      "executablePath": "Z:/Steam/steamapps/common/sbox/sbox-dev.exe",
-      "commandLineArgs": "-project \u0022c:\\users\\patri\\documents\\s\u0026box projects\\ragebait_videos\\ragebait_videos.sbproj\u0022"
-    }
-  }
-}
