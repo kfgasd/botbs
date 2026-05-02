@@ -161,11 +161,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\patri\\documents\\s&box projects\\ragebait_videos\\Editor\\ragebait_videos.editor.csproj",
+      "projectUniqueName": "C:\\Users\\patri\\Documents\\GitHub\\botbs\\Editor\\ragebait_videos.editor.csproj",
       "projectName": "ragebait_videos.editor",
-      "projectPath": "c:\\users\\patri\\documents\\s&box projects\\ragebait_videos\\Editor\\ragebait_videos.editor.csproj",
+      "projectPath": "C:\\Users\\patri\\Documents\\GitHub\\botbs\\Editor\\ragebait_videos.editor.csproj",
       "packagesPath": "C:\\Users\\patri\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\patri\\documents\\s&box projects\\ragebait_videos\\Editor\\obj\\",
+      "outputPath": "C:\\Users\\patri\\Documents\\GitHub\\botbs\\Editor\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\patri\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -183,8 +183,8 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "c:\\users\\patri\\documents\\s&box projects\\ragebait_videos\\Code\\ragebait_videos.csproj": {
-              "projectPath": "c:\\users\\patri\\documents\\s&box projects\\ragebait_videos\\Code\\ragebait_videos.csproj"
+            "C:\\Users\\patri\\Documents\\GitHub\\botbs\\Code\\ragebait_videos.csproj": {
+              "projectPath": "C:\\Users\\patri\\Documents\\GitHub\\botbs\\Code\\ragebait_videos.csproj"
             },
             "Z:\\Steam\\steamapps\\common\\sbox\\addons\\tools\\Code\\Base Editor Library.csproj": {
               "projectPath": "Z:\\Steam\\steamapps\\common\\sbox\\addons\\tools\\Code\\Base Editor Library.csproj"

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ragebait_videos.editor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8063adff531c18e8dcfc0b99f8a9b6cd0564da9f")]
 [assembly: System.Reflection.AssemblyProductAttribute("ragebait_videos.editor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ragebait_videos.editor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

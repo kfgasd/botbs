@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\users\\patri\\documents\\s&box projects\\ragebait_videos\\Code\\ragebait_videos.csproj": {}
+    "C:\\Users\\patri\\Documents\\GitHub\\botbs\\Code\\ragebait_videos.csproj": {}
   },
   "projects": {
-    "c:\\users\\patri\\documents\\s&box projects\\ragebait_videos\\Code\\ragebait_videos.csproj": {
+    "C:\\Users\\patri\\Documents\\GitHub\\botbs\\Code\\ragebait_videos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\users\\patri\\documents\\s&box projects\\ragebait_videos\\Code\\ragebait_videos.csproj",
+        "projectUniqueName": "C:\\Users\\patri\\Documents\\GitHub\\botbs\\Code\\ragebait_videos.csproj",
         "projectName": "ragebait_videos",
-        "projectPath": "c:\\users\\patri\\documents\\s&box projects\\ragebait_videos\\Code\\ragebait_videos.csproj",
+        "projectPath": "C:\\Users\\patri\\Documents\\GitHub\\botbs\\Code\\ragebait_videos.csproj",
         "packagesPath": "C:\\Users\\patri\\.nuget\\packages\\",
-        "outputPath": "c:\\users\\patri\\documents\\s&box projects\\ragebait_videos\\Code\\obj\\",
+        "outputPath": "C:\\Users\\patri\\Documents\\GitHub\\botbs\\Code\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\patri\\AppData\\Roaming\\NuGet\\NuGet.Config",

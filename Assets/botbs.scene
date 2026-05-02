@@ -167,10 +167,7 @@
           "OnComponentFixedUpdate": null,
           "OnComponentStart": null,
           "OnComponentUpdate": null,
-          "ProjectilePrefab": {
-            "_type": "gameobject",
-            "prefab": "bullet.prefab"
-          }
+          "ProjectilePrefab": null
         }
       ],
       "Children": []

@@ -1,12 +1,12 @@
 {
   "RootObject": {
-    "__guid": "3e6de89d-76cd-4636-a831-1b7f23bd01ff",
+    "__guid": "3b15a5bf-a2dd-4b8e-9e5e-5e18b41b77c4",
     "__version": 2,
     "Flags": 0,
-    "Name": "Bullet",
+    "Name": "bullet (1)",
     "Position": "0,0,0",
     "Rotation": "0,0,0,1",
-    "Scale": "1,1,1",
+    "Scale": "0.100000001,0.100000001,0.100000001",
     "Tags": "",
     "Enabled": true,
     "NetworkMode": 2,
@@ -17,7 +17,7 @@
     "Components": [
       {
         "__type": "Sandbox.ModelRenderer",
-        "__guid": "086ffb56-5b61-4e7b-b6f4-1804b001be4e",
+        "__guid": "1e84dbed-16a0-4a5f-a208-b40ef1e87e75",
         "__enabled": true,
         "Flags": 0,
         "BodyGroups": 18446744073709551615,
@@ -44,7 +44,7 @@
       },
       {
         "__type": "Projectile",
-        "__guid": "910b11af-99e4-4a60-93ec-b50966f9dcad",
+        "__guid": "c4f3bb15-4a7e-4514-9767-b2355bccd21d",
         "__enabled": true,
         "Flags": 0,
         "LifeTime": 3,
