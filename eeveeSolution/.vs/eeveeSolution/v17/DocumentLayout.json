@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\patri\\source\\repos\\eeveeSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\XAMPP\\htdocs\\quiz\\determineEvolution.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\XAMPP\\htdocs\\quiz\\eeveequiz.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\XAMPP\\htdocs\\quiz\\style.css||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "eeveequiz.html",
+              "DocumentMoniker": "D:\\XAMPP\\htdocs\\quiz\\eeveequiz.html",
+              "ToolTip": "D:\\XAMPP\\htdocs\\quiz\\eeveequiz.html",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-14T19:10:37.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "determineEvolution.js",
+              "DocumentMoniker": "D:\\XAMPP\\htdocs\\quiz\\determineEvolution.js",
+              "ToolTip": "D:\\XAMPP\\htdocs\\quiz\\determineEvolution.js",
+              "ViewState": "AgIAAAQBAAAAAAAAAAAAACUBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-14T19:10:36.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "style.css",
+              "DocumentMoniker": "D:\\XAMPP\\htdocs\\quiz\\style.css",
+              "ToolTip": "D:\\XAMPP\\htdocs\\quiz\\style.css",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-14T19:10:37.732Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
