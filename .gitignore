@@ -27,3 +27,11 @@ code/Properties/*
 
 # Exported / standalone games
 Exports/
+Editor/Properties/launchSettings.json
+Code/Properties/launchSettings.json
+Code/ragebait_videos.csproj
+ragebait_videos.slnx
+Editor/ragebait_videos.editor.csproj
+Editor/Properties/launchSettings.json
+Code/ragebait_videos.csproj
+Code/Properties/launchSettings.json
