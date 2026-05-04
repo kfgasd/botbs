@@ -5,14 +5,14 @@
   <Project Path="Code/ragebait_videos.csproj" />
   <Project Path="Editor/ragebait_videos.editor.csproj" />
   <Folder Name="/Addons/">
-    <Project Path="Z:/Steam/steamapps/common/sbox/addons/base/code/Base Library.csproj" />
+    <Project Path="../../../../../Program Files (x86)/Steam/steamapps/common/sbox/addons/base/code/Base Library.csproj" />
   </Folder>
   <Folder Name="/Tools/">
-    <Project Path="Z:/Steam/steamapps/common/sbox/addons/tools/Code/Base Editor Library.csproj" />
-    <Project Path="Z:/Steam/steamapps/common/sbox/editor/ActionGraph/Code/actiongraph.csproj" />
-    <Project Path="Z:/Steam/steamapps/common/sbox/editor/DooEditor/Code/dooeditor.csproj" />
-    <Project Path="Z:/Steam/steamapps/common/sbox/editor/Hammer/Code/hammer.csproj" />
-    <Project Path="Z:/Steam/steamapps/common/sbox/editor/MovieMaker/Code/moviemaker.csproj" />
-    <Project Path="Z:/Steam/steamapps/common/sbox/editor/ShaderGraph/Code/shadergraph.csproj" />
+    <Project Path="../../../../../Program Files (x86)/Steam/steamapps/common/sbox/addons/tools/Code/Base Editor Library.csproj" />
+    <Project Path="../../../../../Program Files (x86)/Steam/steamapps/common/sbox/editor/ActionGraph/Code/actiongraph.csproj" />
+    <Project Path="../../../../../Program Files (x86)/Steam/steamapps/common/sbox/editor/DooEditor/Code/dooeditor.csproj" />
+    <Project Path="../../../../../Program Files (x86)/Steam/steamapps/common/sbox/editor/Hammer/Code/hammer.csproj" />
+    <Project Path="../../../../../Program Files (x86)/Steam/steamapps/common/sbox/editor/MovieMaker/Code/moviemaker.csproj" />
+    <Project Path="../../../../../Program Files (x86)/Steam/steamapps/common/sbox/editor/ShaderGraph/Code/shadergraph.csproj" />
   </Folder>
 </Solution>
